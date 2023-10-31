@@ -7,7 +7,7 @@
 
 - 🔧 Always fine-tuning my skills in data visualization tools like Power BI.
 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/george-saade-818b0412b)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/george-saade-818b0412b)
 
 
 
